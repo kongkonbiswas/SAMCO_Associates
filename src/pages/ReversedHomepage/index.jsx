@@ -70,7 +70,7 @@ export default function ReversedHomepagePage() {
                     alt="HousePicture"
                     className="justify-center h-[701px] w-full md:h-auto left-0 bottom-0 right-0 top-0 m-auto object-cover absolute"
                   />
-                  <div className="flex flex-col items-start w-[50%] h-[80%] ml-[2px] gap-5 bottom-0 top-0 my-auto absolute text-white pl-8 pr-5 pt-4 pb-8 bg-gray-700 bg-opacity-60 sm:w-[70%] rounded-[15px]">
+                  <div className="flex flex-col items-start w-[50%] h-[80%] ml-[5%] gap-5 bottom-0 top-0 my-auto absolute text-white pl-8 pr-5 pt-4 pb-8 bg-gray-700 bg-opacity-60 sm:w-[70%] rounded-[15px]">
                     <span className="tracking-[-0.72px] font-black text-5xl sm:text-2xl text-white-A700">
                       Unlock Your Inherited Wealth in Bangladesh!
                     </span>
@@ -85,12 +85,12 @@ export default function ReversedHomepagePage() {
                 </div>
               </div>
             </div>
-            <div className="flex md:flex-col justify-between uppercase items-start w-full mt-[99px] md:p-5">
-              <span size="xl" as="h3" className="w-[30%] md:ml-0 md:w-full tracking-[-0.48px] uppercase text-4xl mt-[7%] mx-[3%] md:mb-3 md:mt-0 font-bold ">
+            <div className="flex md:flex-col justify-between justify-items-center uppercase items-center!important w-full mt-[99px] md:p-5 max-w-7xl">
+              <span size="xl" as="h3" className="w-[30%] md:ml-0 md:w-full tracking-[-0.48px] uppercase text-4xl mt-[7%] mx-[7%] md:mb-3 md:mt-0 font-bold ">
                 Specialist in Bangladesh Asset Management & Conveyancing
               </span>
               <div className="flex md:flex-col justify-between items-start w-[60%] md:w-full mt-1 md:ml-0 gap-5">
-                <div className="flex flex-col w-[50%] md:ml-0 ml-[-15%] md:w-full gap-[15px]">
+                <div className="flex flex-col w-full md:ml-0 md:w-full gap-[15px]">
                   <div className="flex items-start md:w-full gap-3">
                     <div className="h-[18px] w-[18px] mt-0.5 bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="tracking-[-0.24px] mt-[-2px] font-bold text-xl">
@@ -122,45 +122,45 @@ export default function ReversedHomepagePage() {
                     </span>
                   </div>
                 </div>
-                <div className="flex ml-15 flex-col w-[50%] md:w-full gap-[23px] md:ml-0">
-                <div className="flex sm:flex-col items-start gap-3 ml-[-15%] md:ml-0">
+                <div className="flex flex-col mr-[-10%] w-full md:w-full gap-[28px] md:ml-0">
+                <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
                       Need to remove unlawful squatters
                      </span>
                   </div>
-                  <div className="flex sm:flex-col items-start gap-3 ml-[-15%] md:ml-0">
+                  <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
                     NEED HELP SELLING OR BUYING
 LAND & PROPERTY IN BANGLADESH
                     </span>
                   </div>
-                  <div className="flex sm:flex-col items-start gap-3 ml-[-15%] md:ml-0">
+                  <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
                       Need Bangladesh Asset Management Solution
                     </span>
                   </div>
-                  <div className="flex sm:flex-col items-start gap-3 ml-[-15%] md:ml-0">
+                  <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
                     NEED RECORD CORRECTION (NAMZARI)
                     </span>
                   </div>
-                  <div className="flex sm:flex-col items-start gap-3 ml-[-15%] md:ml-0">
+                  <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
-                    <span as="h4" className="w-[85%] md:w-full sm:w-full tracking-[-0.24px] font-bold text-xl">
+                    <span as="h4" className="w-[95%] md:w-full sm:w-full tracking-[-0.24px] font-bold text-xl">
                     NEED HELP WITH OBTAINING BIRTH CERTIFICATE DUPLICATES
                     </span>
                   </div>
                 </div>
               </div>
             </div>
-            <span size="md" as="h6" className="tracking-[-0.32px] !leading-10 uppercase text-xl text-center flex flex-col mt-6">
+            <span size="md" as="h6" className="tracking-[-0.32px] !leading-10 uppercase mt-[30px] text-2xl text-center flex flex-col mt-6">
             WE CAN HELP YOU RESOLVE MAJORITY OF YOUR LAND AND PROPERTY ISSUES REMOTELY, EVEN SALE OF YOUR ASSET!
               </span>
-            <div className="flex justify-center items-end w-full mt-[60px] gap-3 mx-auto md:p-5 max-w-[1281px]">
+            <div className="flex justify-center items-end w-full mt-[30px] gap-3 mx-auto md:p-5 max-w-[1281px]">
               <div className="h-px mb-[7px] bg-black-900 flex-1" />
               <div className="h-[16px] w-[16px] bg-blue_gray-900 rounded-[50%]" />
               <div className="h-px mb-[7px] bg-black-900 flex-1" />
@@ -191,7 +191,7 @@ LAND & PROPERTY IN BANGLADESH
                   Our Experience
                 </Heading>
                 <Text as="p" className="!text-blue_gray-900 text-justify">
-                Throughout our tenure, we have diligently assisted expatriates, particularly British Bangladeshis, in consolidating their assets. Our services extend to facilitating the equitable division of inherited land <span className="font-bold">(Baturanama)</span> and property among family members, obtaining essential property documentation from official registries, and facilitating the removal of unauthorised occupants. Moreover, we adeptly manage asset sales and provide comprehensive legal consultancy to resolve any disputes concerning inherited assets. As a company founded by British Bangladeshis, we possess a profound under standing of the challenges faced by expatriates and provide tailored solutions to address their needs with utmost professionalism.
+                Throughout our tenure, we have diligently assisted expatriates, particularly British Bangladeshis, in consolidating their assets. Our services extend to facilitating the equitable division of inherited land <span className="font-bold italic">(Baturanama)</span> and property among family members, obtaining essential property documentation from official registries, and facilitating the removal of unauthorised occupants. Moreover, we adeptly manage asset sales and provide comprehensive legal consultancy to resolve any disputes concerning inherited assets. As a company founded by British Bangladeshis, we possess a profound under standing of the challenges faced by expatriates and provide tailored solutions to address their needs with utmost professionalism.
                 </Text>
               </div>
               <Img
@@ -306,17 +306,18 @@ LAND & PROPERTY IN BANGLADESH
             </div>
             <div className="flex md:flex-col justify-between items-center w-full mt-[120px] gap-5 mx-auto md:p-5 max-w-[1200px]">
               <Heading size="xl" as="h1" className="w-[56%] md:w-full tracking-[-0.48px] !leading-[64px]">
-                <span className="text-blue_gray-900  bg-gray-700 bg-opacity-20">&quot;</span>
-                <span className="text-blue_gray-900 uppercase  bg-gray-700 bg-opacity-20">Did you know? <br /></span>
-                <span className="text-blue_gray-900 text-4xl  bg-gray-700 bg-opacity-20">You could be walking around as a <br/></span>
-                <span className="text-blue_gray-900 uppercase  bg-gray-700 bg-opacity-20">secret millionaire, <br/> </span>
-                <span className="text-blue_gray-900 text-4xl  bg-gray-700 bg-opacity-20">
+                <span className="text-blue_gray-900  bg-gray-700 bg-opacity-20 pl-2">&quot;</span>
+                <span className="text-blue_gray-900 uppercase  bg-gray-700 bg-opacity-20 pr-2">Did you know? <br /></span>
+                <span className="text-blue_gray-900 text-4xl  bg-gray-700 bg-opacity-20 px-2">You could be walking around as a <br/></span>
+                <span className="text-blue_gray-900 uppercase  bg-gray-700 bg-opacity-20 px-2">secret millionaire, <br/> </span>
+                <span className="text-blue_gray-900 text-4xl  bg-gray-700 bg-opacity-20 px-2">
                   <>
-                     and not even know it!&quot; <br />
-                    <br />
+                     and not even know it!" 
                     
                   </>
+                  <br />
                 </span>
+                <br />
                 <span className="text-4xl ">TAKE ACTION BEFORE ITS TOO LATE</span>
               </Heading>
               <Img
@@ -375,7 +376,7 @@ LAND & PROPERTY IN BANGLADESH
                     </div>
                   </div>
                   <Img
-                    src="images/Rectangle (3).png"
+                    src="images/Rectangle (6).png"
                     alt="image_five"
                     className="h-[603px] sm:h-[13%] md:h-[33%] w-[89%] bottom-0 right-0 left-0 m-auto object-cover absolute rounded-[20px]"
                   />

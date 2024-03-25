@@ -1,4 +1,4 @@
-## samco_associates
+## SAMCO_Associates
 ## Demo 
  [Live](https://660115f754edec80609519ab--mellifluous-kataifi-c08f0d.netlify.app/)
 ## Description
@@ -97,16 +97,33 @@ Alternatively you may use `yarn`:
 ```sh
 yarn add react-router
 ```
+# grneral-portfolio
+
+//Have a look the live preview [Click here to Check Live App](https://expo.dev/@kongkonbiswas/planet-app).
+
+[Linkedin](https://www.linkedin.com/in/kongkon-biswas-a2374314a/).
+
+[E-mail](kongkonbiswas3241@gmail.com).
+
+# Key Features
+This is React native app. Here I am using Expo CLI to complete this project. Here I use some essential things I learned from my react native.
+## Features
+
+- HTML, CSS and Javascript
+- React 
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at kongkonbiswas3241@gmail.com
+
+
+## Authors
+
+- [@kongkonbiswas](https://github.com/kongkonbiswas)
 
 ## License
 
-MIT License
+[MIT License](LICENSE)
 
-Copyright (c) 2024 DhiWise
-
-Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-# SAMCO_Associates
+ ---Thank You---
