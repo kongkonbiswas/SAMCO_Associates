@@ -1,0 +1,14 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/Roboto-Black.ttf");
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/Truculenta_18pt_Condensed-ExtraBold.ttf");
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
