@@ -1,6 +1,6 @@
 ## SAMCO_Associates
 ## Demo 
- [Live](https://660115f754edec80609519ab--mellifluous-kataifi-c08f0d.netlify.app/)
+ [Live](https://mellifluous-kataifi-c08f0d.netlify.app/)
 ## Description
 
 - This React application is built using [create-react-app](https://create-react-app.dev/).
