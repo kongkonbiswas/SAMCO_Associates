@@ -18,41 +18,41 @@ export default function ReversedHomepagePage() {
               </Heading>
               <ul className="flex justify-center mt-2.5 gap-[31px] md:flex-wrap text-2xl">
                 <li>
-                  <a href="#">
-                    <span as="h6" className="uppercase text-white-A700 text-xl	">
+                  <a href="https://github.com/kongkonbiswas">
+                    <span as="h6" className="uppercase text-white-A700 text-xl hover:text-blue-400">
                       HOME
                     </span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
-                  <span as="h6" className="uppercase text-white-A700 text-xl">
+                  <a href="https://github.com/kongkonbiswas">
+                  <span as="h6" className="uppercase text-white-A700 text-xl hover:text-blue-400">
                       ASSET MANAGEMENT
                     </span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
-                    <span as="h6" className="uppercase text-white-A700 text-xl	">
+                  <a href="https://github.com/kongkonbiswas">
+                    <span as="h6" className="uppercase text-white-A700 text-xl hover:text-blue-400">
                       CONVEYANCING
                     </span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
-                    <span as="h6" className="uppercase text-white-A700 text-xl	">
+                  <a href="https://github.com/kongkonbiswas">
+                    <span as="h6" className="uppercase text-white-A700 text-xl	hover:text-blue-400">
                       CONSULTANCY
                     </span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
-                    <span as="h6" className="uppercase text-white-A700 text-xl">
+                  <a href="https://web.whatsapp.com/">
+                    <span as="h6" className="uppercase text-white-A700 text-xl hover:text-blue-400">
                       ABOUT
                     </span>
                   </a>
                 </li>
-                <Button shape="round" className="sm:px-6 mt-[-1%] border-4 border-cyan-300 bg-blue_gray-900 md:ml-[2%] text-sky-300 h-12 w-40 text-xl">
+                <Button shape="round" className="sm:px-6 mt-[-1%] border-4 border-cyan-300 bg-blue_gray-900 md:ml-[2%] text-sky-300 h-12 w-40 text-xl hover:text-blue-400">
                       Contact Now
                     </Button>
               </ul>
@@ -70,15 +70,14 @@ export default function ReversedHomepagePage() {
                     alt="HousePicture"
                     className="justify-center h-[701px] w-full md:h-auto left-0 bottom-0 right-0 top-0 m-auto object-cover absolute"
                   />
-                  <div className="flex flex-col items-start w-[50%] h-[80%] ml-[5%] gap-5 bottom-0 top-0 my-auto absolute text-white pl-8 pr-5 pt-4 pb-8 bg-gray-700 bg-opacity-60 sm:w-[70%] rounded-[15px]">
+                  <div className="flex flex-col items-start w-[50%] h-[63%] md:h-[80%] ml-[5%] gap-5 bottom-0 top-0 my-auto absolute text-white pl-8 pr-5 pt-4 pb-8 bg-gray-700 bg-opacity-60 sm:w-[70%] rounded-[15px]">
                     <span className="tracking-[-0.72px] font-black text-5xl sm:text-2xl text-white-A700">
-                      Unlock Your Inherited Wealth in Bangladesh!
+                    Unlock Your Inherited Wealth in Bangladesh!
                     </span>
                     <span className="tracking-[-0.32px] !leading-10 text-white-A700 font-thin text-4xl sm:text-2xl text-ellipsis overflow-hidden">
-                      Your go-to for consolidating, managing, and safeguarding inherited assets in Bangladesh with
-                      expertlegal assistance and property solutions
+                    Your go-to for consolidating, managing, and & safeguarding inherited assets in Bangladesh with expert legal assistance and property solutions
                     </span>
-                    <Button shape="round" className="sm:px-6 font-black text-white-A700 m-[10px] sm:font-normal sm:text-lg sm:m-0 sm:py-0 sm:w-[90%] whitespace-nowrap  text-3xl h-10 w-[226px] py-8">
+                    <Button shape="round" className="sm:px-6 font-black text-white-A700 m-[10px] sm:font-normal sm:text-lg sm:m-0 sm:py-0 sm:w-[90%] whitespace-nowrap  text-3xl h-10 w-[226px] py-8 hover:bg-cyan-400">
                       Contact Now
                     </Button>
                   </div>
@@ -87,7 +86,7 @@ export default function ReversedHomepagePage() {
             </div>
             <div className="flex md:flex-col justify-between justify-items-center uppercase items-center!important w-full mt-[99px] md:p-5 max-w-7xl">
               <span size="xl" as="h3" className="w-[30%] md:ml-0 md:w-full tracking-[-0.48px] uppercase text-4xl mt-[7%] mx-[7%] md:mb-3 md:mt-0 font-bold ">
-                Specialist in Bangladesh Asset Management & Conveyancing
+              SPECIALIST IN BANGLADESH ASSET MANAGEMENT & CONVEYANCING
               </span>
               <div className="flex md:flex-col justify-between items-start w-[60%] md:w-full mt-1 md:ml-0 gap-5">
                 <div className="flex flex-col w-full md:ml-0 md:w-full gap-[15px]">
@@ -100,19 +99,19 @@ export default function ReversedHomepagePage() {
                   <div className="flex sm:flex-col items-start gap-3">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h5" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
-                      Need Bangla to English Translation of Bangladeshi Deed Papers
+                    NEED BANGLA TO ENGLISH TRANSLATION OF BANGLADESHI DEED PAPERS
                     </span>
                   </div>
                   <div className="flex sm:flex-col items-start gap-3">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h6" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
-                      Need to verify, consolidate your Bangladesh asset and property papers
+                    NEED TO VERIFY, CONSOLIDATE YOUR ASSET AND PROPERTY PAPERS
                     </span>
                   </div>
                   <div className="flex sm:flex-col items-start gap-3">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
-                      Need to obtain duplicate copies of your land/property deed papers
+                    NEED TO OBTAIN DUPLICATE COPIES OF YOUR LAND/PROPERTY DEED PAPERS
                     </span>
                   </div>
                   <div className="flex sm:flex-col items-start gap-3">
@@ -126,20 +125,19 @@ export default function ReversedHomepagePage() {
                 <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
-                      Need to remove unlawful squatters
+                    NEED TO REMOVE UNLAWFUL SQUATTERS
                      </span>
                   </div>
                   <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
-                    NEED HELP SELLING OR BUYING
-LAND & PROPERTY IN BANGLADESH
+                    NEED HELP SELLING OR BUYING LAND & PROPERTY IN BANGLADESH
                     </span>
                   </div>
                   <div className="flex sm:flex-col items-start gap-3 md:ml-0">
                     <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                     <span as="h4" className="w-[95%] sm:w-full tracking-[-0.24px] font-bold text-xl">
-                      Need Bangladesh Asset Management Solution
+                    NEED BANGLADESH ASSET MANAGEMENT SOLUTION
                     </span>
                   </div>
                   <div className="flex sm:flex-col items-start gap-3 md:ml-0">
@@ -181,7 +179,7 @@ LAND & PROPERTY IN BANGLADESH
                     </Heading>
                 </div>
               </div>
-              <Button shape="round" className="sm:px-5 gap-y-5 font-bold m-[10px] min-w-[226px] sm:mt-[45%]">
+              <Button shape="round" className="sm:px-5 gap-y-5 font-bold m-[10px] min-w-[226px] sm:mt-[45%] hover:bg-cyan-400">
                 CONTINUE TO CHAT
               </Button>
             </div>
@@ -224,7 +222,7 @@ LAND & PROPERTY IN BANGLADESH
                       through each step, ensuring a smooth and effective resolution process tailored to your needs.
                     </>
                   </Text>
-                  <Button shape="round" className="mt-10 sm:px-5 font-bold min-w-[173px]">
+                  <Button shape="round" className="mt-10 sm:px-5 font-bold min-w-[173px] hover:bg-cyan-400">
                     Contact Now
                   </Button>
                 </div>
@@ -239,12 +237,7 @@ LAND & PROPERTY IN BANGLADESH
                 />
                 <div className="flex flex-col w-[64%] md:w-full gap-[31px] md:p-5">
                   <Heading as="h4" className="tracking-[-0.24px] !font-kalam text-justify !leading-10">
-                    “Both my parents passed away, all my siblings live in Manchester, never been to Bangladesh. Ourmama
-                    was entrusted to look after our basha and land in Sylhet. When we wanted to sell the land
-                    andproperty, he kept on making excuses. On every visit to Bangladesh, he will be accommodating
-                    forfirst few days and after that he will make one or the other excuses. Finally, we got in touch
-                    withSAMCO ASSOCIATES who with some difficulties managed to help us consolidate all the papers
-                    andhelp us sell the land and property.”
+                  "Both of my parents passed away, all my siblings live in Manchester, never been to Bangladesh. Our mama (Uncle) was entrusted to look atter our basha and land in Sylhet. When we wanted to sell the land and property, he kept on making excuses. On every visit to Bangladesh, he will be accommodating for first few days and after that he will make one or the other excuses. Finally, we got in touch with SAMCO ASSOCIATES who with some difficulties: managed to help us consolidate all the papers and help us sell the land and property."
                   </Heading>
                   <Heading size="md" as="h2" className="tracking-[-0.32px]">
                     Halima Begum
@@ -255,14 +248,14 @@ LAND & PROPERTY IN BANGLADESH
             <div className="w-full mt-[120px] mx-auto md:p-5 max-w-[1200px]">
               <div className="flex sm:flex-col justify-between items-center gap-5 p-[29px] sm:p-5 bg-blue_gray-900">
                 <div className="flex self-end justify-center items-center ml-[50px] gap-6 md:ml-0">
-                  <Heading size="xl" as="h1" className="self-end mb-2 !text-white-A700 tracking-[-0.48px]">
+                  <span className="self-end mb-0 !text-white-A700 tracking-[-0.48px] mr-[-17px] font-black text-2xl">
                     Only
-                  </Heading>
+                  </span>
                   <Heading size="5xl" as="h1" className="!text-white-A700 tracking-[-1.02px]">
                     £75
                   </Heading>
                 </div>
-                <Button shape="round" className="mr-7 md:mr-0 sm:px-5 font-bold min-w-[157px] text-white-A700">
+                <Button shape="round" className="mr-7 md:mr-0 sm:px-5 font-bold min-w-[157px] text-white-A700 hover:bg-cyan-400">
                   Apply Now
                 </Button>
               </div>
@@ -275,28 +268,28 @@ LAND & PROPERTY IN BANGLADESH
                   </div>
                   <div className="flex justify-center w-[50%] md:w-full mt-1">
                     <div className="flex flex-col w-full gap-[25px]">
-                      <div className="flex items-startw-full gap-3">
+                      <div className="flex items-start w-full gap-3">
                         <div className="h-[18px] w-[18px] mt-2 bg-blue_gray-900 rounded-[50%]" />
                         <Heading as="h4" className="tracking-[-0.24px]">
-                          We will look at all your paperwork
+                        We will look at all your documents
                         </Heading>
                       </div>
                       <div className="flex sm:flex-col items-start gap-3">
                         <div className="h-[18px] md:w-[18px] w-[21px] mt-2 bg-blue_gray-900 rounded-[50%]" />
                         <Heading as="h4" className="tracking-[-0.24px]">
-                          Our experts will call you and take note of your full issues
+                        Our experts will call you for further consultation
                         </Heading>
                       </div>
                       <div className="flex items-start w-full gap-3">
                         <div className="h-[18px] w-[18px] mt-2 bg-blue_gray-900 rounded-[50%]" />
                         <Heading as="h4" className="tracking-[-0.24px]">
-                          We will conduct our own due diligence
+                        We will conduct our own due diligence
                         </Heading>
                       </div>
                       <div className="flex sm:flex-col items-start gap-3">
                         <div className="h-[18px] w-[18px] mt-[7px] bg-blue_gray-900 rounded-[50%]" />
                         <Heading as="h4" className="w-[96%] sm:w-full tracking-[-0.24px]">
-                          Write you a full report and a proposal on how to resolve your issues
+                        Write you a full report and a proposal on how to resolve your issues
                         </Heading>
                       </div>
                     </div>
@@ -338,37 +331,38 @@ LAND & PROPERTY IN BANGLADESH
                       />
                       <div className="flex flex-col w-[89%] gap-[42px] top-[8%] right-0 left-0 m-auto absolute sm:overflow-y-hidden">
                         <Heading size="xl" as="h1" className="!text-white-A700 tracking-[-0.48px]">
-                          HOW!!!
+                          HOW?
                         </Heading>
                         <div className="flex md:flex-col items-start gap-10">
                           <div className="flex flex-col w-full gap-[18px] md:p-5">
                             <Heading size="s" as="h3" className="!text-white-A700 tracking-[-0.28px]">
-                              Struggling with dividing inherited assets?
+                            INHERITED ASSETS
                             </Heading>
                             <Text as="p">
-                              For British Bangladeshis, navigating property transactionsamong family members can be
-                              daunting, especially without a Bangladeshi passport or NID Card.With family scattered
-                              across the UK, gathering for decisions is challenging, often leaving assets inBangladesh
-                              neglected. We offer cost-effective solutions to manage these complexities efficiently.
+                            For British Bangladeshis, navigating property transactions among family members can be daunting, especially without a Bangladeshi passport or NID Card. With family scattered across UK, gathering for decisions is challenging, often leaving assets in Bangladesh neglected. We offer cost- effective solutions to manage these complexities efficiently.
                             </Text>
                           </div>
                           <div className="flex flex-col w-full gap-[18px] md:p-5">
                             <Heading size="s" as="h3" className="!text-white-A700 tracking-[-0.28px]">
-                              Facing disputes over land and property?
+                            ASSET DISPUTES
                             </Heading>
                             <Text as="p">
-                              Our seasoned experts boast years of experience, networks,and contacts, enabling us to
-                              resolve legitimate disputes and help you reclaim what&#39;s rightfully yours.
+                            Our seasoned experts boast years of experience, networks, and contacts, enabling us to resolve legitimate disputes and help you reclaim what's rightfully yours.
+                            <br/>
+                            <br/>
+Thousands of NRBs are facing difficulties with their land and property in Bangladesh. We can help you consolidate and benefit financially.
                             </Text>
                           </div>
                           <div className="flex flex-col w-full gap-[18px] md:p-5">
                             <Heading size="s" as="h3" className="!text-white-A700 tracking-[-0.28px]">
-                              Need help managing and selling your assets?
+                            ASSETS MANAGEMENT
                             </Heading>
                             <Text as="p" className="sm:hidden">
-                              We provide professional and diligent estatemanagement services tailored to your needs.
-                              Whether you require assistance with paperwork orselling your assets, we ensure a seamless
-                              process, allowing you to move forward confidently.
+                            We provide professional and diligent estate management services tailored to your needs.
+Whether you require assistance with paper work or selling your assets, we ensure a seamless process, allowing you to move forward confidently.
+                              <br />
+                              <br />
+We can help you anywhere in Bangladesh. Its your duty to manage your inheritance left by your parents.
                             </Text>
                           </div>
                         </div>
@@ -378,7 +372,7 @@ LAND & PROPERTY IN BANGLADESH
                   <Img
                     src="images/Rectangle (6).png"
                     alt="image_five"
-                    className="h-[603px] sm:h-[13%] md:h-[33%] w-[89%] bottom-0 right-0 left-0 m-auto object-cover absolute rounded-[20px]"
+                    className="h-[603px] sm:h-[13%] md:h-[20%] w-[89%] bottom-0 right-0 left-0 m-auto object-cover absolute rounded-[20px]"
                   />
                 </div>
                 <div className="flex md:flex-col justify-center items-center w-full gap-[26px] mx-auto md:p-5 max-w-[1040px]">
@@ -390,7 +384,7 @@ LAND & PROPERTY IN BANGLADESH
                     </span>
                     <span className="text-blue_gray-900 font-normal text-xl">Bangladesh is reforming land and property laws periodically, take action before it's to late!</span>
                   </Heading>
-                  <Button shape="round" className="sm:px-5 font-bold min-w-[173px] whitespace-nowrap">
+                  <Button shape="round" className="sm:px-5 font-bold min-w-[173px] whitespace-nowrap hover:bg-cyan-400">
                     Contact Now
                   </Button>
                 </div>
@@ -466,7 +460,7 @@ LAND & PROPERTY IN BANGLADESH
                         <Heading size="xl" as="h1" className="!text-white-A700 tracking-[-0.48px] text-center">
                           With little as £75 Fee we can look at your enquiry and provide you step by step solution
                         </Heading>
-                        <Button shape="round" className="sm:px-5 font-bold min-w-[164px] text-white-A700 !rounded-[29px]">
+                        <Button shape="round" className="sm:px-5 font-bold min-w-[164px] text-white-A700 !rounded-[29px] hover:bg-cyan-400">
                           Apply Now !
                         </Button>
                       </div>
