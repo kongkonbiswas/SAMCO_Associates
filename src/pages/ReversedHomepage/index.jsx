@@ -451,11 +451,11 @@ We can help you anywhere in Bangladesh. Its your duty to manage your inheritance
                 <div className="mt-[-82px] bg-blue_gray-900">
                   <div>
                     <div className="h-[427px] relative">
-                      <Img
+                      {/* <Img
                         src="images/img_pexels_karolina_427x1440.png"
                         alt="pexelskarolina"
                         className="justify-center h-[427px] w-full md:h-auto left-0 bottom-0 right-0 top-0 m-auto opacity-0.1 object-cover absolute"
-                      />
+                      /> */}
                       <div className="flex flex-col items-center justify-center w-full h-full gap-10 left-0 bottom-0 right-0 top-0 m-auto absolute">
                         <Heading size="xl" as="h1" className="!text-white-A700 tracking-[-0.48px] text-center">
                           With little as £75 Fee we can look at your enquiry and provide you step by step solution
